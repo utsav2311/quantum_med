@@ -1,2 +1,1 @@
-# quantum-medical
-# Quantum-M
+# quantum_medical
