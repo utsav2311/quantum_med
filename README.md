@@ -1,1 +1,1 @@
-# quantum_med
+# quantum_medical
